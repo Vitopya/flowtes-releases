@@ -10,14 +10,14 @@ Une app de bureau qui réunit vos notes et votre tableau de tâches.<br>
 Elle repère les actions dans ce que vous écrivez. Vos données restent sur votre ordinateur.
 
 <p>
-  <a href="https://github.com/Vitopya/flowtes-releases/releases/download/v0.9.3/Flowtes_0.9.3_x64-setup.exe"><b>Télécharger pour Windows</b></a>
+  <a href="https://github.com/Vitopya/flowtes-releases/releases/download/v0.9.4/Flowtes_0.9.4_x64-setup.exe"><b>Télécharger pour Windows</b></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/Vitopya/flowtes-releases/releases/download/v0.9.3/Flowtes_0.9.3_aarch64.dmg"><b>Mac à puce Apple</b></a>
+  <a href="https://github.com/Vitopya/flowtes-releases/releases/download/v0.9.4/Flowtes_0.9.4_aarch64.dmg"><b>Mac à puce Apple</b></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/Vitopya/flowtes-releases/releases/download/v0.9.3/Flowtes_0.9.3_x64.dmg"><b>Mac Intel</b></a>
+  <a href="https://github.com/Vitopya/flowtes-releases/releases/download/v0.9.4/Flowtes_0.9.4_x64.dmg"><b>Mac Intel</b></a>
 </p>
 
-<sub>Version 0.9.3 du 12 octobre 2026 · Gratuit · Sans compte · Fonctionne hors ligne</sub>
+<sub>Version 0.9.4 du 12 octobre 2026 · Gratuit · Sans compte · Fonctionne hors ligne</sub>
 
 </div>
 
@@ -34,11 +34,11 @@ Après une réunion, on relit ses notes, on repère les actions, puis on les rec
 
 **1. Écrivez comme d'habitude.** Titres, listes, cases à cocher, tableaux, images, sections repliables, et liens entre vos notes avec `[[ ]]`. Rangez-les en carnets, sous-notes et tags ; retrouvez-les avec la recherche ou la palette de commandes (Ctrl+P, ⌘+P sur Mac).
 
-**2. Extrayez les actions.** Le bouton Extraire repère les tâches d'une note et leurs échéances, comme « d'ici jeudi » ou « lundi ». Vous gardez, corrigez ou écartez chaque proposition : rien n'arrive au tableau sans votre accord.
+**2. Extrayez les actions.** Le bouton Extraire repère les tâches d'une note et leurs échéances, comme “d'ici jeudi” ou “lundi”. Vous gardez, corrigez ou écartez chaque proposition : rien n'arrive au tableau sans votre accord.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/extraction-sombre.webp">
-  <img src="assets/extraction-clair.webp" alt="Le panneau « Tâches détectées » : quatre tâches proposées, avec leur phrase d'origine et leur échéance.">
+  <img src="assets/extraction-clair.webp" alt="Le panneau “Tâches détectées” : quatre tâches proposées, avec leur phrase d'origine et leur échéance.">
 </picture>
 
 **3. Suivez-les au tableau.** Chaque carte garde le lien vers la note dont elle vient. Cochez la case dans la note : la carte passe en Terminé. Déplacez la carte : la note l'affiche. Échéances, priorités, filtre par carnet et backlog sont là quand vous en avez besoin, et les cartes terminées depuis sept jours s'archivent seules.
@@ -62,30 +62,30 @@ Après une réunion, on relit ses notes, on repère les actions, puis on les rec
 
 | Votre ordinateur | Fichier à télécharger |
 |---|---|
-| Windows 10 ou 11 (64 bits) | [Flowtes_0.9.3_x64-setup.exe](https://github.com/Vitopya/flowtes-releases/releases/download/v0.9.3/Flowtes_0.9.3_x64-setup.exe) |
-| Mac à puce Apple (M1 et suivants) | [Flowtes_0.9.3_aarch64.dmg](https://github.com/Vitopya/flowtes-releases/releases/download/v0.9.3/Flowtes_0.9.3_aarch64.dmg) |
-| Mac Intel | [Flowtes_0.9.3_x64.dmg](https://github.com/Vitopya/flowtes-releases/releases/download/v0.9.3/Flowtes_0.9.3_x64.dmg) |
+| Windows 10 ou 11 (64 bits) | [Flowtes_0.9.4_x64-setup.exe](https://github.com/Vitopya/flowtes-releases/releases/download/v0.9.4/Flowtes_0.9.4_x64-setup.exe) |
+| Mac à puce Apple (M1 et suivants) | [Flowtes_0.9.4_aarch64.dmg](https://github.com/Vitopya/flowtes-releases/releases/download/v0.9.4/Flowtes_0.9.4_aarch64.dmg) |
+| Mac Intel | [Flowtes_0.9.4_x64.dmg](https://github.com/Vitopya/flowtes-releases/releases/download/v0.9.4/Flowtes_0.9.4_x64.dmg) |
 
-Puce Apple ou Intel ? Menu Pomme > À propos de ce Mac : la ligne « Puce » désigne un Mac à puce Apple, la ligne « Processeur » un Mac Intel.
+Puce Apple ou Intel ? Menu Pomme > À propos de ce Mac : la ligne “Puce” désigne un Mac à puce Apple, la ligne “Processeur” un Mac Intel.
 
-**Sur Windows**, lancez l'installeur. Flowtes n'étant pas signé par un certificat commercial, SmartScreen peut afficher « Windows a protégé votre ordinateur » : cliquez sur « Informations complémentaires », puis sur « Exécuter quand même ».
+**Sur Windows**, lancez l'installeur. Flowtes n'étant pas signé par un certificat commercial, SmartScreen peut afficher “Windows a protégé votre ordinateur” : cliquez sur “Informations complémentaires”, puis sur “Exécuter quand même”.
 
 **Sur Mac**, ouvrez le fichier .dmg et glissez Flowtes dans Applications. L'app n'étant pas notarisée par Apple, macOS bloque son premier lancement, une seule fois par installation :
 
-- jusqu'à macOS 14 : clic droit sur Flowtes, « Ouvrir », puis « Ouvrir » à nouveau ;
-- à partir de macOS 15 : lancez l'app une fois, ouvrez Réglages Système > Confidentialité et sécurité, cliquez sur « Ouvrir quand même » et confirmez avec votre mot de passe.
+- jusqu'à macOS 14 : clic droit sur Flowtes, “Ouvrir”, puis “Ouvrir” à nouveau ;
+- à partir de macOS 15 : lancez l'app une fois, ouvrez Réglages Système > Confidentialité et sécurité, cliquez sur “Ouvrir quand même” et confirmez avec votre mot de passe.
 
 **Mises à jour.** Flowtes vérifie au lancement si une nouvelle version existe et vous la propose. Chaque mise à jour est signée : l'app contrôle cette signature avant d'installer quoi que ce soit, et vos notes sont conservées.
 
 Toutes les versions et leurs notes : [page des versions](https://github.com/Vitopya/flowtes-releases/releases).
 
-## Nouveautés de la version 0.9.3
+## Nouveautés de la version 0.9.4
 
-- Une seule recherche
-- Menus plus faciles à parcourir
-- Formulaire de retour allégé
+- La note ouverte se repère d'un coup d'œil
+- Les boutons du tableau s'expliquent
+- Entrée en mode concentration plus nette
 
-[Le détail de la version 0.9.3](https://github.com/Vitopya/flowtes-releases/releases/tag/v0.9.3)
+[Le détail de la version 0.9.4](https://github.com/Vitopya/flowtes-releases/releases/tag/v0.9.4)
 
 ## Questions fréquentes
 
@@ -116,13 +116,13 @@ Non, tant que vous n'activez ni la synchronisation, ni un moteur d'IA en ligne. 
 <details>
 <summary><b>Mon Mac demande mon mot de passe à l'ouverture de Flowtes</b></summary>
 <br>
-La clé qui chiffre vos notes est gardée par le trousseau de macOS. Après une installation ou une mise à jour, le trousseau demande l'autorisation de la lire : saisissez votre mot de passe, puis choisissez « Toujours autoriser ». Refuser empêche Flowtes d'ouvrir vos données.
+La clé qui chiffre vos notes est gardée par le trousseau de macOS. Après une installation ou une mise à jour, le trousseau demande l'autorisation de la lire : saisissez votre mot de passe, puis choisissez “Toujours autoriser”. Refuser empêche Flowtes d'ouvrir vos données.
 </details>
 
 <details>
 <summary><b>Comment signaler un problème ou proposer une idée ?</b></summary>
 <br>
-Dans Flowtes, le bouton « Envoyer un retour », en bas de la barre latérale, prépare un message dans votre messagerie. Vous voyez exactement ce qui part avant de l'envoyer.
+Dans Flowtes, le bouton “Envoyer un retour”, en bas de la barre latérale, ouvre un court formulaire : votre message part directement depuis l'app. Votre adresse est facultative, pour recevoir une réponse.
 </details>
 
 <details>
