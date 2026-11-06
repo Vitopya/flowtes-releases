@@ -10,14 +10,14 @@ Une app de bureau qui réunit vos notes et votre tableau de tâches.<br>
 Elle repère les actions dans ce que vous écrivez. Vos données restent sur votre ordinateur.
 
 <p>
-  <a href="https://github.com/Vitopya/flowtes-releases/releases/download/v0.11.0/Flowtes_0.11.0_x64-setup.exe"><b>Télécharger pour Windows</b></a>
+  <a href="https://github.com/Vitopya/flowtes-releases/releases/download/v0.12.0/Flowtes_0.12.0_x64-setup.exe"><b>Télécharger pour Windows</b></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/Vitopya/flowtes-releases/releases/download/v0.11.0/Flowtes_0.11.0_aarch64.dmg"><b>Mac à puce Apple</b></a>
+  <a href="https://github.com/Vitopya/flowtes-releases/releases/download/v0.12.0/Flowtes_0.12.0_aarch64.dmg"><b>Mac à puce Apple</b></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/Vitopya/flowtes-releases/releases/download/v0.11.0/Flowtes_0.11.0_x64.dmg"><b>Mac Intel</b></a>
+  <a href="https://github.com/Vitopya/flowtes-releases/releases/download/v0.12.0/Flowtes_0.12.0_x64.dmg"><b>Mac Intel</b></a>
 </p>
 
-<sub>Version 0.11.0 du 4 novembre 2026 · Gratuit · Sans compte · Fonctionne hors ligne</sub>
+<sub>Version 0.12.0 du 6 novembre 2026 · Gratuit · Sans compte · Fonctionne hors ligne</sub>
 
 </div>
 
@@ -66,9 +66,9 @@ Après une réunion, on relit ses notes, on repère les actions, puis on les rec
 
 | Votre ordinateur | Fichier à télécharger |
 |---|---|
-| Windows 10 ou 11 (64 bits) | [Flowtes_0.11.0_x64-setup.exe](https://github.com/Vitopya/flowtes-releases/releases/download/v0.11.0/Flowtes_0.11.0_x64-setup.exe) |
-| Mac à puce Apple (M1 et suivants) | [Flowtes_0.11.0_aarch64.dmg](https://github.com/Vitopya/flowtes-releases/releases/download/v0.11.0/Flowtes_0.11.0_aarch64.dmg) |
-| Mac Intel | [Flowtes_0.11.0_x64.dmg](https://github.com/Vitopya/flowtes-releases/releases/download/v0.11.0/Flowtes_0.11.0_x64.dmg) |
+| Windows 10 ou 11 (64 bits) | [Flowtes_0.12.0_x64-setup.exe](https://github.com/Vitopya/flowtes-releases/releases/download/v0.12.0/Flowtes_0.12.0_x64-setup.exe) |
+| Mac à puce Apple (M1 et suivants) | [Flowtes_0.12.0_aarch64.dmg](https://github.com/Vitopya/flowtes-releases/releases/download/v0.12.0/Flowtes_0.12.0_aarch64.dmg) |
+| Mac Intel | [Flowtes_0.12.0_x64.dmg](https://github.com/Vitopya/flowtes-releases/releases/download/v0.12.0/Flowtes_0.12.0_x64.dmg) |
 
 Puce Apple ou Intel ? Menu Pomme > À propos de ce Mac : la ligne “Puce” désigne un Mac à puce Apple, la ligne “Processeur” un Mac Intel.
 
@@ -83,16 +83,15 @@ Puce Apple ou Intel ? Menu Pomme > À propos de ce Mac : la ligne “Puce” dé
 
 Toutes les versions et leurs notes : [page des versions](https://github.com/Vitopya/flowtes-releases/releases).
 
-## Nouveautés de la version 0.11.0
+## Nouveautés de la version 0.12.0
 
-- Corrections d'orthographe au clic droit
-- Les dates de création et de modification de chaque note
-- Tout déplier, tout replier dans la liste des notes
-- Les blocs voisins s'ajustent quand on en élargit un
-- Une hauteur réglée à la main est conservée
-- Un en-tête de note plus compact
+- Supprimer un tag
+- Une nouvelle note se crée là où vous êtes
+- Le titre entier d'une note au survol
+- Les liens entre notes suivent leurs renommages
+- Une colonne des carnets et des tags plus large
 
-[Le détail de la version 0.11.0](https://github.com/Vitopya/flowtes-releases/releases/tag/v0.11.0)
+[Le détail de la version 0.12.0](https://github.com/Vitopya/flowtes-releases/releases/tag/v0.12.0)
 
 ## Questions fréquentes
 
